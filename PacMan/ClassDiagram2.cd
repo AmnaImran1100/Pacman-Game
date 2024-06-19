@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PacMan.BL.cell">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAIAAAAAAIAAACAAAABgAGAAAAA=</HashCode>
+      <FileName>BL\cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.BL.ghost">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgEAAAEgACMAAIAgAAAAAQAIYJAAAJoAIAAgAA=</HashCode>
+      <FileName>BL\ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.BL.grid">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoAAQQAAAgACQAAQAAIAAAAAAAAAAAAAAQAAAAIAAQA=</HashCode>
+      <FileName>BL\grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.BL.pacman">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAACEAAIIAAAAAAAAAACAAABgCMAAAAA=</HashCode>
+      <FileName>BL\pacman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.DL.gridDL">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\gridDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.Program">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PacMan.UI.gameUI">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\gameUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
